@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm [Your Name]! 
+
+I craft ✨**beautiful, user-friendly interfaces**✨ that bring digital products to life. 
+
+**Skills:** HTML, CSS, JavaScript, Typescript, React js, Next js, Tailwind
+
+**Let's build something awesome together!** 
+Feel free to reach out for collaborations or just to chat about code. 
+
+[Your Email] | [Your LinkedIn] | [Your Twitter]
