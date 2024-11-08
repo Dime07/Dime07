@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Dime07/Dime07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm [Your Name]! 
+# Hi, I'm Dimas Rafi! 
 
 I craft ✨**beautiful, user-friendly interfaces**✨ that bring digital products to life. 
 
 **Skills:** HTML, CSS, JavaScript, Typescript, React js, Next js, Tailwind
 
-**Let's build something awesome together!** 
+**Let's build something awesome together!**🚀 
 Feel free to reach out for collaborations or just to chat about code. 
 
+<!--
 [Your Email] | [Your LinkedIn] | [Your Twitter]
+-->
