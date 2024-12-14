@@ -24,7 +24,7 @@ Currently working as Frontend Engineer on Dealls Jobs
 - Tailwind
 - React js
 
-**Let's build something awesome together!**🚀 
+**Let's build something awesome together!** 🚀 
 Feel free to reach out for collaborations or just to chat about code. 
 <!--
 [Your Email] | [Your LinkedIn] | [Your Twitter]
